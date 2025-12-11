@@ -1,11 +1,11 @@
-import Navbar from "./components/Navbar";
-import HeroSection from "./components/HeroSection";
-import PillarGrid from "./components/PillarGrid";
-import ScheduleSection from "./components/ScheduleSection";
-import ProgramCards from "./components/ProgramCards";
-import ProjectShowcase from "./components/ProjectShowcase";
-import Testimonials from "./components/Testimonials";
-import Footer from "./components/Footer";
+import Navbar from "./Components/Navbar.jsx";
+import HeroSection from "./Components/HeroSection.jsx";
+import PillarGrid from "./Components/PillarGrid.jsx";
+import ScheduleSection from "./Components/ScheduleSection.jsx";
+import ProgramCards from "./Components/ProgramCards.jsx";
+import ProjectShowcase from "./Components/ProjectShowcase.jsx";
+import Testimonials from "./Components/Testimonials.jsx";
+import Footer from "./Components/Footer.jsx";
 
 export default function App() {
   return (
